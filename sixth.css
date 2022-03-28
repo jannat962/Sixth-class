@@ -1,4 +1,46 @@
 img{
-    width: 460px;
-    height: 430px;
+    width: 450px;
+    height: 300px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 30px;
+}
+.zero{
+    display: flex;
+}
+.one{
+    margin: 30px ;
+}
+.one a{
+    text-decoration: none;
+    color: aliceblue;
+    background-image: linear-gradient(rgb(74, 74, 175), rgb(6, 17, 82));
+    padding: 5px 30px;
+    border-radius: 6px;
+    font-weight: 900;
+}
+.one h1{
+    color: rgb(25, 61, 93);
+    border: 2px;
+}
+.one h2{
+    color:rgb(43, 107, 226);
+}
+.one u{
+    color: brown;
+    
+}
+.zero1{
+    display: flex;
+}
+.third img{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 30px;
+    border: 2px solid black;
+}
+.four {
+    width: 50%;
+    margin-left: 10px;
+    padding: 2%;
 }
